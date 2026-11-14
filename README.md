@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi I'm Mona Abdelaziz👩‍🔬,
+I hold an M.Sc. in Biomedical Neuroscience from the Technical University of Munich and a B.Sc. in Biophysics. My experimental background includes neuroimmunology, human iPSC culture, immunofluorescence, confocal and THUNDER microscopy, and quantitative image analysis.
 
-<!--
-**M00un/M00un** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently developing the computational skills needed to investigate complex biomedical data from microscopy-derived cellular phenotypes to single-cell and spatial molecular profiles.
 
-Here are some ideas to get you started:
+## Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Chronic neuroinflammation in ageing and neurodegenerative diseases
+- Immune-cell states and intercellular communication
+- Quantitative microscopy and image-based phenotyping
+- Machine learning for biomedical discovery
+- Single-cell and spatial data analysis
+
+## Computational development
+
+I am currently learning and applying:
+
+- Python, NumPy, pandas, Matplotlib and Seaborn
+- Statistical analysis and experimental-data fundamentals
+- Machine learning with scikit-learn
+- Git, GitHub and reproducible research workflows
+- Deep learning for biomedical image analysis
+- Single-cell and spatial analysis with Scanpy and scverse
+
+## In-progress portfolio projects
+
+- Leakage-aware modelling of mouse brain protein-expression data
+- Quantitative analysis of microglial morphology after inflammatory stimulation
+- Biomedical image-segmentation benchmarking
+- Single-cell analysis of brain ageing and cellular states
+
+## Experimental background
+
+- Whole-mount immunofluorescence
+- Confocal and THUNDER microscopy
+- ImageJ and Imaris analysis
+- Human iPSC culture and neural-cell differentiation
+- Flow cytometry, qPCR, Western blotting and RNAscope
+- Experimental workflow optimization and troubleshooting
+
+## Contact
+
+- LinkedIn: [www.linkedin.com/in/mona-abdelaziz-40333139a]
